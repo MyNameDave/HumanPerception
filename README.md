@@ -7,7 +7,7 @@
   </a>
 </p> 
 <hr> 
-  <img src="./LegacyVersion/HumanPerceptionArtImage.png" alt="Art / Page Image" title="Art / Page Image">
+  <img src="./UpdatedVersion/updatedBaseImage.png" alt="Art / Page Image" title="Art / Page Image">
   <img src="./UpdatedVersion/updatedHPImage.png" alt="Art / Page Image" title="Art / Page Image">
 <hr>
 <p>
