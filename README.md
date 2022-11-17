@@ -1,6 +1,6 @@
 <h1> Human Perception Art </h1>
 <p> 
-  This was a project originally developed by Zihang Jiao, debugged and further developed by David Thompson, and imaginated by Christian Varacalli.
+  This project was partially developed by Zihang Jiao, fixed and further developed by David Thompson & designed and imagined by Christian Varacalli.
   This can be seen at: 
   <a href="https://dlthompsonky.com/projects/humanperception">
     dlthompsonky.com
